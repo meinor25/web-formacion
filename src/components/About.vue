@@ -3,8 +3,8 @@
       <v-container>
           <v-row class="ma-0 px-10 pt-15 d-flex align-center">
               <v-col cols="12" md="6" data-aos="fade-up" data-aos-delay="200">
-                  <h3 class="green--text text-md-h3 text-h6 font-weight-light">¿Qué es un ecosistema digital?</h3>
-                  <p class="text-subtitle1 text-md-h6 text-xl-h5 font-weight-light mt-4">Un ecosistema digital es un sistema socio-técnico inspirado en los ecosistemas naturales. Su funcionamiento se basa en las propiedades de autoorganización, escalabilidad y sostenibilidad para lograr un mayor tráfico en la página web de la empresa, una mayor interacción y fidelización de los usuarios y generar mayor cantidad de leads. </p>
+                  <h3 class="green--text text-md-h3 text-h6 font-weight-light">¿A que nos dedicamos?</h3>
+                  <p class="text-subtitle1 text-md-h6 text-xl-h5 font-weight-light mt-4">Satisfacemos la necesidad de contar con la línea de Reparación, Fabricación de productos y objetos que la gente quiera o necesite en casi todas las ramas del mercado, desde Jugueterías y Deportes, desde ferreterías y repuestos. Una alta gama de alternativas abiertas al cliente que, en ocasiones, es muy dificil de encontrar por otros medios.  </p>
               </v-col>
               <v-col cols="12" md="6" data-aos="fade-up" data-aos-delay="300" class="d-flex justify-center">
                 <div class="img-container">
